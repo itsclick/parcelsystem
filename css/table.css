@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+#newspaper-c
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	width: 100%;
+	text-align: left;
+	border-collapse: collapse;
+	border: 1px solid #6cf;
+}
+#newspaper-c th
+{
+	padding: 7px;
+	font-weight: normal;
+	font-size: 11px;
+	color: #039;
+	text-transform: uppercase;
+	border-right: 1px solid #0865c2;
+	border-top: 1px solid #0865c2;
+	border-left: 1px solid #0865c2;
+	border-bottom: 1px solid #fff;
+	border-bottom: 1px dashed #69c;
+}
+#newspaper-c td
+{
+	padding: 4px 4px;
+	color: #669;
+	border-right: 1px dashed #6cf;
+	border-bottom: 1px dashed #69c;
+}
+
+.txtcustomerdetailshead {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #00F;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #000;
+}
